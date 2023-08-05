@@ -53,6 +53,13 @@
 주민번호 = "881120-1068234"
 print(f"19{주민번호[0:2]}년 {주민번호[2:4]}월 {주민번호[4:6]}일" )
 print(주민번호[7:14])
+# 퀴즈3
+a = [1,3,5,4,2]
+# 이것을 1,2,3,4,5 리스트형과 5,4,3,2,1 리스트형으로 바꾸시오
+a.sort()
+print(a)
+a.reverse()
+print(a)
 
 # 코드주소 : https://github.com/Student-Jasons/python_learn
 # 코드주소 : https://url.kr/zkwfyj
