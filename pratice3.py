@@ -1,7 +1,4 @@
 # # f 문자열 포메팅
-hansomeguy = "황준섭"
-print(f"{hansomeguy}은 잘생겻다")
-print(f"{hansomeguy}은 천제다")
 #
 # 이름 = '홍길동'
 # 나이 = 21
